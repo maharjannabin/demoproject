@@ -1,3 +1,5 @@
+composer update
+
 Please configure config and .env
 
 
